@@ -1,5 +1,5 @@
-#the input abstract is the text file downloaded on pubmed that contain all the abstracts (just put the name, not the .txt), 
-#the input output_directory is the path of the output
+# the input abstract is the text file downloaded on pubmed that contain all the abstracts (just put the name, not the .txt), 
+# the input output_directory is the path of the output
 
 key_word_finder <- function (abstract, summary,scholar_ID){
     library(pubmed.mineR)
