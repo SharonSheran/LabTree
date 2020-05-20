@@ -1,4 +1,6 @@
 # LabTree
+Link to Google Drive document: https://drive.google.com/open?id=14QLqdV5B9bOVnh7gedDcX9y76zjsF2tP
+
 Here is a description of what is expected for the "Lab Tree":
 
 - Identify a lab/PI. It must be experienced (at least a 100 publications). Choose wisely: the group should be reknown for it's innovative contributions/way of thinking or amazing production.
